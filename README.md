@@ -14,7 +14,7 @@ WIDS/
 │   ├── game_economy.csv
 │   └── quake_grid.csv
 │
-└── Assignment2/          # California Housing Price Prediction
+└── MidtermReport/          # California Housing Price Prediction
     ├── a2.ipynb
     └── housing.csv
 ```
@@ -252,7 +252,7 @@ jupyter notebook q6Toq9.ipynb
 
 ### Assignment 2
 ```bash
-cd Assignment2
+cd MidtermReport
 jupyter notebook a2.ipynb
 ```
 
